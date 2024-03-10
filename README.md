@@ -1,2 +1,2 @@
-# merge-conflicts
+REMOTE
 add remote text
